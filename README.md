@@ -1,14 +1,15 @@
-`pip install django`
-`python3 -m django --version`
-`mkdir myproject`
-`cd myproject`
-`django-admin startproject mywebapp`
+* `pip install django`
+* `python3 -m django --version`
+* `mkdir myproject`
+* `cd myproject`
+* `django-admin startproject mywebapp`
+* 
 ```
 cd mysite
 python3 -m venv venv
 source venv/bin/activate
 ```
-`pip install django`
+* `pip install django`
 
 1. Create a new app for your main functionality:
 `python3 manage.py startapp myapp`
